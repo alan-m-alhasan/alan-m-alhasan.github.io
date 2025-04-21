@@ -67625,7 +67625,7 @@ A.G8.prototype={
 M(a){var s=null,r=A.ef(50),q=A.ef(20),p=A.a([B.b0,B.eg],t.O)
 return A.H9(!1,r,!0,A.fO(B.a1,A.js(A.a([A.ec("Download CV",s,s,A.ar(a).p1.ax.M7(B.j,B.a7,1.2)),B.Pn,B.FY],t.p),B.M,B.L,B.Q,0),B.A,s,s,new A.dt(s,s,s,q,B.lr,new A.ij(B.xh,B.xg,B.aS,p,s,s),B.aj),s,s,s,B.F7,s,s,s),s,!0,s,s,s,s,s,s,s,s,s,new A.Y1(),s,s,s,s)}}
 A.Y1.prototype={
-$0(){A.jS(A.eA("https://drive.google.com/file/d/1Xy2WHYjq89ytBPSmH0oKtuQ1LfurFjBD/view?usp=sharing",0,null))},
+$0(){A.jS(A.eA("https://drive.google.com/file/d/1R895qaLioRflmjG5Wx0QgoIhGAxwRxGt/view?usp=sharing",0,null))},
 $S:0}
 A.ou.prototype={
 M(a){return new A.hZ(new A.a4q(this),null)}}
@@ -67660,7 +67660,7 @@ A.L8.prototype={
 M(a){var s=null
 return A.wl(A.a([new A.mm(B.FM,new A.a9u(),s),new A.mm(B.FO,new A.a9v(),s),new A.mm(B.FQ,new A.a9w(),s),new A.mm(B.FP,new A.a9x(),s),new A.mm(B.FL,new A.a9y(),s)],t.p),B.M,B.ai,s,B.L,B.Q,5,s,s,B.aA)}}
 A.a9u.prototype={
-$0(){A.jS(A.eA("https://www.linkedin.com/in/alan-m-alhasan",0,null))},
+$0(){A.jS(A.eA("https://www.linkedin.com/in/alan-alhasan",0,null))},
 $S:0}
 A.a9v.prototype={
 $0(){A.jS(A.eA("https://github.com/alan-m-alhasan",0,null))},
